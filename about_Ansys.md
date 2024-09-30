@@ -28,15 +28,19 @@ Ansys 구조해석 소프트웨어 중 Ansys Mechanical이 주로 사용되고 �
 
 2) 유체 역학 (Fluid Dynamics)
 
-3) 유체 역학 (Fluid Dynamics)
+Ansys의 유체역학 기능은 유체 흐름을 수치적으로 모델링하는 CFD 시뮬레이션을 통해 시작됩니다. 이 소프트웨어는 CAD와 통합되어 복잡한 기하학적 구조를 쉽게 모델링하고, 메쉬를 생성할 수 있는 도구를 제공합니다. 사용자는 유체의 물리적 특성을 설정할 수 있으며, 점성, 밀도, 열전도도 등을 정의하여 실제 상황을 반영한 시뮬레이션을 수행합니다.
 
-4) 열 해석 (Thermal Analysis)
+열 전달 해석 기능을 통해 전도, 대류, 복사 방식의 열 분포를 예측할 수 있으며, 다양한 난류 모델을 활용해 복잡한 유체 흐름을 분석합니다. 마지막으로, 시뮬레이션 결과는 시각적으로 분석할 수 있는 도구를 제공하며, 이를 통해 유속, 압력 등의 데이터를 쉽게 이해하고 보고서를 생성할 수 있습니다. 이러한 기능들을 통해 Ansys는 다양한 산업 분야에서 유체역학 문제를 효과적으로 해결하고 설계 최적화를 지원합니다.
 
-5) 전자기 해석 (Electromagnetic Analysis)
+4) 유체 역학 (Fluid Dynamics)
 
-6) 멀티피직스 시뮬레이션 (Multiphysics Simulation)
+5) 열 해석 (Thermal Analysis)
 
-7) 최적화 및 설계 탐색 (Optimization and Design Exploration)
+6) 전자기 해석 (Electromagnetic Analysis)
+
+7) 멀티피직스 시뮬레이션 (Multiphysics Simulation)
+
+8) 최적화 및 설계 탐색 (Optimization and Design Exploration)
 
 
 
