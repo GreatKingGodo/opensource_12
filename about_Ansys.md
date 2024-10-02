@@ -60,7 +60,7 @@ Ansys의 열 해석 기능은 다양한 산업 분야에서 물리적 시스템 
 Ansys의 전자기 해석 기능은 고주파 및 저주파 전자기장 문제를 정확하게 시뮬레이션하고, 이를 통해 전자기 장비와 시스템의 성능을 분석 및 최적화하는 데 중요한 역할을 합니다.
 대표적인 툴로는 Ansys HFSS, Maxwell, Q3D Extractor, 그리고 Icepak이 있으며, 각각 고유한 특성과 해석 영역을 가지고 있습니다.
 
-Ansys HFSS (High-Frequency Structure Simulator)
+**Ansys HFSS (High-Frequency Structure Simulator)**
 고주파 전자기 해석을 위한 도구로, 주로 안테나 설계, RF 회로, 레이더 시스템, 그리고 통신 장비에서 주파수 응답을 분석하는 데 사용됩니다. 
 HFSS는 유한 요소법(Finite Element Method, FEM)을 사용하여 전자기파가 전도체, 유전체, 및 공기 중에서 어떻게 전파되고 반사되며, 흡수되는지 시뮬레이션합니다. 
 이를 통해, 사용자는 특정 주파수 대역에서의 전자기장의 분포와 강도, 그리고 시스템의 전파 특성을 3D 공간에서 시각적으로 확인할 수 있습니다. 
