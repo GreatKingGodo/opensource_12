@@ -60,7 +60,7 @@ Ansys의 전자기 해석 기능은 고주파 및 저주파 전자기장 문제�
 
 Ansys HFSS (High-Frequency Structure Simulator)
 고주파 전자기 해석을 위한 도구로, 주로 안테나 설계, RF 회로, 레이더 시스템, 그리고 통신 장비에서 주파수 응답을 분석하는 데 사용됩니다. HFSS는 유한 요소법(Finite Element Method, FEM)을 사용하여 전자기파가 전도체, 유전체, 및 공기 중에서 어떻게 전파되고 반사되며, 흡수되는지 시뮬레이션합니다. 이를 통해, 사용자는 특정 주파수 대역에서의 전자기장의 분포와 강도, 그리고 시스템의 전파 특성을 3D 공간에서 시각적으로 확인할 수 있습니다. HFSS는 또한 안테나의 방사 패턴, 이득, 지향성 등을 분석하여 최적의 안테나 설계를 지원합니다. 
-![Ansys HFSS](https://images.ansys.com/is/image/ansys/HFSS_Mesh%20Fusion_Antenna%202?wid=1254&fmt=png-alpha&op_usm=0.9,1.0,20,0&fit=constrain,0)
+![Ansys HFSS](https://simutechgroup.com/wp-content/uploads/2021/04/Ansys_HFSS.jpg)
 
 Ansys Maxwell : 저주파 전자기 해석을 위해 설계된 도구로, 전기 모터, 변압기, 센서 설계에 사용됩니다.
 Ansys Q3D Extractor : 고속 설계에서 전기적 기생 요소를 추출하고, PCB나 패키징 해석에 사용됩니다.
