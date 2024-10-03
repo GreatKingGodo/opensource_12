@@ -74,7 +74,12 @@ HFSS는 또한 안테나의 방사 패턴, 이득, 지향성 등을 분석하여
 ![Ansys HFSS](https://simutechgroup.com/wp-content/uploads/2021/04/Ansys_HFSS.jpg)
 
 Ansys Maxwell : 저주파 전자기 해석을 위해 설계된 도구로, 전기 모터, 변압기, 센서 설계에 사용됩니다.
-Ansys Q3D Extractor : 고속 설계에서 전기적 기생 요소를 추출하고, PCB나 패키징 해석에 사용됩니다.
+
+
+**Ansys Q3D Extractor**
+Ansys Q3D Extractor는 고속 PCB 설계에서 사용되는 전기적 기생 요소를 분석하는 도구입니다. 특히 전력 전자기기, 회로 패키징, 그리고 고속 신호 전송 시스템에서 발생하는 기생 인덕턴스, 기생 커패시턴스 등을 추출하여, 고속 회로의 성능 저하나 신호 왜곡을 최소화할 수 있습니다. 이를 통해 전기적 성능을 개선하고 전력 손실을 줄이는 데 유용하며, 특히 Q3D Extractor는 패키지와 PCB 설계 단계에서 전기적 성능을 미리 검증할 수 있는 중요한 도구입니다.
+![Ansys Q3D Extractor](https://www.padtinc.com/simulation/wp-content/uploads/2021/10/sim-product-ansys-q3d-extractor-1.png)
+
 Ansys Icepak : 전자기 및 열 관리 문제를 함께 다루는 해석 도구로, 전자 장치의 발열 문제를 해결하는 데 유용합니다.
 
 
