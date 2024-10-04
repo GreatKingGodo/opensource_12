@@ -54,12 +54,15 @@ Ansys의 유체역학 기능은 유체 흐름을 수치적으로 모델링하는
 **3) 열 해석 (Thermal Analysis)**  
 
 Ansys의 열 해석 기능은 다양한 산업 분야에서 물리적 시스템 내의 열 전달과 관련된 문제를 시뮬레이션하고 분석하는 데 사용됩니다. 이를 통해 제품 설계 단계에서 열 문제를 사전에 파악하고 해결할 수 있으며, 시스템의 성능과 신뢰성을 크게 향상시킬 수 있습니다. ANSYS에서 열해석(thermal analysis)을 수행할 때 주로 사용하는 프로그램은 ANSYS Mechanical과 ANSYS Fluent입니다.
-먼저 ANSYS Mechanical에서의 열해석은 특히 열-구조 연성(thermal-structural coupling)을 통해 열적 응력과 변형을 분석하는 데 적합합니다. 그리고 주요 기능에는 정상 상태 열해석(Steady-State Thermal Analysis), 과도 상태 열해석(Transient Thermal Analysis), 열응력 해석(Thermal Stress Analysis)이 있습니다. 정상 상태 열해석(Steady-State Thermal Analysis)은 일정한 열 부하에서 열 평형 상태의 온도 분포를 예측하는 해석입니다. 과도 상태 열해석(Transient Thermal Analysis)은 시간에 따라 변화하는 열 부하를 고려한 해석입니다. 열응력 해석(Thermal Stress Analysis)은 온도 변화에 따른 재료의 열팽창과 이에 따른 응력 및 변형을 계산합니다. 분석 과정
+
+ANSYS Mechanical은 구조해석에 중점을 둔 프로그램이지만 열해석 기능도 제공하여 복합적인 시뮬레이션을 수행할 수 있습니다. ANSYS Mechanical에서의 열해석은 특히 열-구조 연성(thermal-structural coupling)을 통해 열적 응력과 변형을 분석하는 데 적합합니다. 그리고 주요 기능에는 정상 상태 열해석(Steady-State Thermal Analysis), 과도 상태 열해석(Transient Thermal Analysis), 열응력 해석(Thermal Stress Analysis)이 있습니다. 정상 상태 열해석(Steady-State Thermal Analysis)은 일정한 열 부하에서 열 평형 상태의 온도 분포를 예측하는 해석입니다. 과도 상태 열해석(Transient Thermal Analysis)은 시간에 따라 변화하는 열 부하를 고려한 해석입니다. 열응력 해석(Thermal Stress Analysis)은 온도 변화에 따른 재료의 열팽창과 이에 따른 응력 및 변형을 계산합니다.
+
 ANSYS Fluent는 유체의 흐름과 열 전달을 해석하는데 강력한 기능을 제공하고 복잡한 유동과 함께 열전달이 발생하는 시스템에서 열해석을 수행하는 데 적합합니다. 특히 유체 내에서의 열 전달 문제를 시뮬레이션하는 데 매우 유용합니다. 주요 기능으로는 전도,대류,복사를 모두 고려한 열해석이 가능하고 자연대류(Natural Convection)와 강제대류(Forced Convection) 시뮬레이션 기능이 있고 다상 유동 및 반응을 포함한 열전달 해석이 있습니다.
 
+추가로 ANSYS Discovery는 실시간 시뮬레이션 기능을 제공하는 프로그램이기는 하지만 열해석에서도 빠른 피드백을 받을 수 있는 프로그램입니다. 주요 기능으로는 실시간 결과를 시각화할 수 있고 직관적인 인터페이스를 제공하며 기초적인 열전달 해석을 할 수 있습니다.
 
+각 프로그램은 서로 다른 목적과 해석 대상에 따 선택기준에 대해서는 다른데, 정밀한 열-구조 연성 해석을 필요로 할 경우 ANSYS Mechanical을 선택하고 유체 흐름과 열 전달을 함께 분석해야하는 경우 ANSYS Fluent를 선택하며 설계 초기 단계에서 빠른 시뮬레이션이 필요한 경우 ANSYS Discovery를 선택하는 것이 가장 효율적입니다. 
 
-복잡한 열 전달 메커니즘을 기반으로 온도 분포와 열 흐름을 정확히 예측할 수 있습니다. 구조 해석, 유동 해석 등과 결합하여 복합적인 물리적 문제를 동시에 분석할 수 있습니다. 직관적인 인터페이스를 통해 복잡한 열해석을 쉽게 설정하고 분석할 수 있습니다. 설계 단계에서 열 문제를 사전에 파악하여 제품 개발 비용을 줄이고, 성능을 최적화할 수 있습니다.
 
 **4) 전자기 해석 (Electromagnetic Analysis)**  
 
