@@ -62,7 +62,9 @@ Ansys의 유체역학 기능은 유체 흐름을 수치적으로 모델링하는
 유체 역학을 지원하는 프로그램은 대표적으로 Ansys CFX(터보 기계 CFD 소프트웨어), Ansys Fluent(유동 시뮬레이션 소프트웨어), Ansys Rocky(입자 동역학 시뮬레이션 소프트웨어)등이 있습니다.
 
 Ansys CFX 가 지원하는 주요 기능으로는 간소화된 터보 설정(Streamlined Turbo Setups), 조화평형법(Harmonic Balance Methods), 고급 증기 및 가스 모델(Advanced Steam and Real-gas Models), 성능 지도 자동화(Performance Map Automation), 표현(Expressions), 로터-스테이터 상호 작용(Rotor-stator Interaction), HPC 확장성(HPC Scalability), 난기류 모델링(Turbulence Modeling), Transient Blade Row Methods, 블레이드 필름 냉각(Blade Film Cooling), 블레이드 디자인 도구 통합(Blade Design Tool Integration), 다단계 CFD 모델링(Multi-stage CFD Modeling)이 있습니다.
+
 Ansys Fluent 가 지원하는 주요 기능으로는 Task 기반 워크플로우, 난류 모델링, 단일 및 다상 플로우, 차수 감소 모델, Expressions, 음향, 연소, 형상 최적화, Overset Mesh, CHT (Conjugate Heat Transfer), 유체-구조 상호작용, HPC (High Performance Computing)이 있습니다.
+
 Ansys Rocky 가 지원하는 주요 기능으로는 멀티 GPU 프로세싱, 정확한 입자 물리, 자동화 및 커스터마이징, CFD 커플링, 표면 마모, 3D 스캔 입력, 비 구형 입자 형상, 고급 파괴 모델링, 다물체 동역학, FEA 커플링, 2D Shells and Fibers, HPC가 있습니다.
 
 ![유체계산](https://github.com/user-attachments/assets/63821c47-0ba4-4da5-bafd-58f2306bb098)
