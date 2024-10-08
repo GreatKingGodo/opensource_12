@@ -119,6 +119,7 @@ Maxwell은 2D와 3D 모델에서 전기장, 자기장 및 유도 전류를 정�
 Ansys Maxwell은 다양한 전력 변환 시스템이나 전기 기계 설계에서 중요한 역할을 합니다.
 전기 모터, 변압기, 무선 충전 시스템, 자기 센서 등에서 전력 손실을 최소화하고 효율성을 극대화하는 설계가 가능하도록 도와줍니다. 
 이를 통해 설계자는 더 나은 성능을 가진 기기를 제작할 수 있고, 전자기 간섭(EMI) 및 전자기 호환성(EMC) 문제를 해결하는 데도 도움을 줍니다.
+
 ![Ansys Maxwell](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA5RI9f_ckViahoy8GSz742tfjZLutq5ke2Q&s)
 
 **Ansys Q3D Extractor**
