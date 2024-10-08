@@ -104,7 +104,9 @@ Ansys Maxwell : 저주파 전자기 해석을 위해 설계된 도구로, 전기
 Ansys Q3D Extractor는 고속 PCB 설계에서 사용되는 전기적 기생 요소를 분석하는 도구입니다. 특히 전력 전자기기, 회로 패키징, 그리고 고속 신호 전송 시스템에서 발생하는 기생 인덕턴스, 기생 커패시턴스 등을 추출하여, 고속 회로의 성능 저하나 신호 왜곡을 최소화할 수 있습니다. 이를 통해 전기적 성능을 개선하고 전력 손실을 줄이는 데 유용하며, 특히 Q3D Extractor는 패키지와 PCB 설계 단계에서 전기적 성능을 미리 검증할 수 있는 중요한 도구입니다.
 ![Ansys Q3D Extractor](https://www.padtinc.com/simulation/wp-content/uploads/2021/10/sim-product-ansys-q3d-extractor-1.png)
 
-Ansys Icepak : 전자기 및 열 관리 문제를 함께 다루는 해석 도구로, 전자 장치의 발열 문제를 해결하는 데 유용합니다.
+**Ansys Icepak**
+Ansys Icepak은 전자기 해석과 열 해석을 통합하여, 전자 기기의 발열 문제를 해결하는 데 도움을 줍니다. 전자기기가 동작할 때 발생하는 열을 효과적으로 관리하지 않으면 기기의 성능이 저하되거나 심지어 손상될 수 있는데, Icepak은 이러한 열 관리 문제를 분석하고 최적화할 수 있습니다. 이는 특히 고주파 기기나 고전력 전자 기기에서 열 관리가 중요한 역할을 할 때 유용합니다. Icepak은 전자기적 해석 결과를 기반으로 열 방출 경로와 냉각 시스템의 성능을 시뮬레이션하여 전자 장치의 수명을 연장하고 성능을 최적화할 수 있습니다.
+![Ansys Icepak](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbTm6cBWmOrLLbKrsBfpm6SAjtlYJan5mDbg&s)
 
 
 **5) 멀티피직스 시뮬레이션 (Multiphysics Simulation)**
